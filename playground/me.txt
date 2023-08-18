@@ -1,5 +1,0 @@
-{{#user}
-Name: Pranav Talmale
-Skills: Product Testing, git, github
-Email: pranavtalmale@gmail.com
-{{/user}}
